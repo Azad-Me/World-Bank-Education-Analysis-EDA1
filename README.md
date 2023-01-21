@@ -10,7 +10,7 @@ which countries show more closeness to global standards and what are the actual 
 # Project Summary
 
 
-UNESCO has formulated the all new Education 2030 Framework for Action, to define the standards for various indicators 
+>UNESCO has formulated the all new Education 2030 Framework for Action, to define the standards for various indicators 
 whichwould be followed by countries. Such 3666 indicators have been studied by the World Bank since 1970. The Ed Stats data set 
 is the result of such an endeavor by the World Bank.\
   	Since history various studies and surveys have been conducted by the countries for their growth in education. Kothari Commission, 
