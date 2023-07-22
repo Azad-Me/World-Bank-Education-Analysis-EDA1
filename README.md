@@ -1,4 +1,5 @@
 
+
 # World-Bank-Education-Analysis-EDA1
 The World Bank Ed Stats All Indicator Query holds over 4,000 internationally comparable indicators that describe education access, 
 progression, completion, literacy, teachers, population, expenditures and many such indicators .The indicators cover the education 
